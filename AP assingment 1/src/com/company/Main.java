@@ -198,6 +198,7 @@ public class Main {
             System.out.println(hospital.get(i).unique_id);
 
         }
+        int k;
     }
 }
 
