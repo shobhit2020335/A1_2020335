@@ -94,7 +94,6 @@ public class Main {
 
 
         while (true) {
-            System.out.println("enter query number:");
             query = scn.nextInt();
 
             if (query == 2) {
